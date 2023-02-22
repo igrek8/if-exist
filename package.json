@@ -1,6 +1,6 @@
 {
   "name": "if-exist",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Check if file or directory exists",
   "license": "MIT",
   "bin": "dist/cli.js",
